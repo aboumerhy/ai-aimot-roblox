@@ -1,5 +1,5 @@
 
-# Player Detector Overlay (Custom CNN, No YOLO)
+# Player Detector Overlay
 
 A from-scratch screen-based detector and transparent overlay that can learn to localize a specific kind of target
 (e.g., a character silhouette) on your screen **without hooking or injecting** into any client. It uses:
