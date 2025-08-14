@@ -1,0 +1,8 @@
+
+opencv-python
+numpy
+tensorflow~=2.16
+mss
+Pillow
+pyautogui
+matplotlib
